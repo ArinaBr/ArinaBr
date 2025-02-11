@@ -7,6 +7,9 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h2>
 
+### :woman_technologist: My name is Arina Bratsuk <br>
+I am a student
+
 
 
 <!--
