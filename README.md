@@ -7,8 +7,13 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h2>
 
-### :woman_technologist: My name is Arina Bratsuk <br>
-I am a student
+### :woman_technologist: My name is Arina Bratsuk
+I'm a student. <br>
+- :cityscape: I'm from Moscow.
+- :woman_student: My bachelor's degree program is Computer Science and Computer Engineering.
+- :desktop_computer: I'm interested in data analysis, frontend development and content writing.
+- :brain: I participate in hackathons and scientific conferences.
+- :airplane: I like to travel and learn new things.
 
 
 
