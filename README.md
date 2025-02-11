@@ -35,6 +35,14 @@ I'm a student. <br>
 </div>
 
 ### :fire: My stats:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArinaBr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ArinaBr)](https://git.io/streak-stats)
+
+
+
+### :heartpulse: And I also love inspirational quotes:
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <!--
 **ArinaBr/ArinaBr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
