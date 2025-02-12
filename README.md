@@ -41,7 +41,7 @@ I'm a student. <br>
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=ArinaBr)](https://git.io/streak-stats)
 
 ### :heartpulse: And I also love inspirational quotes:
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <!--
 **ArinaBr/ArinaBr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
