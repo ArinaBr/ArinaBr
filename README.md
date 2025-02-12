@@ -37,7 +37,7 @@ I'm a student. <br>
 ### :fire: My stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArinaBr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ArinaBr)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=ArinaBr)](https://git.io/streak-stats)
 
 ### :heartpulse: And I also love inspirational quotes:
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
